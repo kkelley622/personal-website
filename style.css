@@ -1,17 +1,58 @@
+h1 {
+    background:seagreen;
+    font-size: 20pt;
+}
+
 body {
-    background: rgb(65, 153, 65);
+    background: rgba(233, 231, 227, 0.788) ;
     text-align: center;
-    font-style:inherit;
+    font-style: papyrus;
 }
 
 h2 {
     background:rgba(233, 231, 227, 0.788);
     text-align: left;
-    font-style: initial
+    font-style: papyrus;
+    font-size: 18pt;
 }
 
 h3 {
     background:rgba(233, 231, 227, 0.788);
     text-align: left;
-    font-style: initial
+    font-style: papyrus;
+}
+
+h4 {
+    background:seagreen;
+    text-align: center;
+    font-style: papyrus;
+    font-size: 18pt;
+}
+
+ul {
+    text-align: left;
+    font-style: papyrus;
+
+}
+
+h5 {
+    background:seagreen;
+    text-align: center;
+    font-style: papyrus;
+    font-size: 18pt;
+}
+
+h6 {
+    background:seagreen;
+    text-align: center;
+    font-style: papyrus;
+    font-size: 18pt;
+}
+footer {
+    text-align: left;
+    background-color: skyblue;
+}
+
+blockquote {
+    margin: 100px;
 }
