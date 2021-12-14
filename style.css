@@ -3,3 +3,15 @@ body {
     text-align: center;
     font-style:inherit;
 }
+
+h2 {
+    background:rgba(233, 231, 227, 0.788);
+    text-align: left;
+    font-style: initial
+}
+
+h3 {
+    background:rgba(233, 231, 227, 0.788);
+    text-align: left;
+    font-style: initial
+}
